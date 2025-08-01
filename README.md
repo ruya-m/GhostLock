@@ -12,8 +12,8 @@ Bu yazılımın oluşmasında:
 
 *  Başta **Halit Bey** olmak üzere tüm **OzzTech** çalışanlarına,
 *  Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT'sını kullanmama izin veren **Mustafa Hocama**,
-*  Ve yazılımı yazarken bana ortaklık eden Chat'e
-*  Son olarak ikide bir "bu nasıl olmuş" diye sorduğum Afra'ya
+*  Yazılımı yazarken bana ortaklık eden Chat'e
+*  Son olarak geliştirme sürecinde ikide bir "bu nasıl olmuş?" diye sorduğum **Afra'ya**
 
   emekleri ve katkıları için gönülden teşekkür ederim.
 
@@ -96,7 +96,7 @@ python app.py
 * `detect.py` : Etkinlik takibi, foto, yüz tanıma
 * `main.py` : Honeypot arayüz ve video kaydı
 * `model.json`, `ayarlar.json`: Yapılandırma dosyaları
-* `log_report.csv`, `control/`, `gecmis/`: Kıyt ve arşivler
+* `log_report.csv`, `control/`, `gecmis/`: Kayıt ve arşivler
 
 ---
 
