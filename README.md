@@ -1,4 +1,23 @@
-# GhostLock
+## 🙏 İlham ve Teşekkür
+
+Bu proje, staj yaptığım **OzzTech** firmasındaki unutulmaz bir ofis kuralından ilham aldı:
+
+> “Bilgisayarını açık unutan kişi, mail yoluyla ifşa edilir ve tüm ekibe baklava ısmarlar.” 🥧
+
+Bu gelenekle ilk tanışmam, bir stajyer arkadaşımın kurban gitmesiyle oldu.
+Kendimi korumak (ve belki bir gün tersine çevirmek) için bu projeyi şaka amaçlı yazmaya başladım.
+Ancak ilk örneği yöneticimiz **Halit Bey**'e sunduktan sonra, onun kıymetli geri bildirimleriyle proje ciddi bir güvenlik aracına dönüştü.
+
+Bu yazılımın oluşmasında:
+
+* 👨‍💼 Başta **Halit Bey** olmak üzere tüm **OzzTech** çalışanlarına,
+* 👨‍🏫 Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT kullanımıma destek olan **Mustafa Hocama**,
+* 🤖 Ve bu satırları da yazan sevgili **Chat**’e (yani sana!)
+  emekleri ve katkıları için gönülden teşekkür ederim.
+
+---
+
+# 👻 GhostLock
 
 GhostLock, hareketsiz kalan kullanıcıları sessizce gözlemleyen ve güvenlik kontrolü sağlayan Python tabanlı bir masaüstü uygulamasıdır. Yapay zeka destekli yüz tanıma algoritması sayesinde, yetkisiz kullanıcıların erişimini engeller veya bir honeypot (tuzak) ortamı oluşturarak kamera kaydı alır.
 
@@ -86,7 +105,6 @@ Bu proje MIT lisansı altındadır. Detaylar için [LICENSE](LICENSE) dosyasına
 ---
 
 ## 🤝 Katkı
-
 Pull request'ler ve issue bildirimleri açıktır.
 Geliştirici: Rüya Melis Ünver
 Email: \[[ruyamelisunver.tr@gmail.com](ruyamelisunver.tr@gmail.com)]
