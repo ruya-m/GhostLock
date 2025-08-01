@@ -17,7 +17,7 @@ Bu yazılımın oluşmasında:
 
 ---
 
-# 👻 GhostLock
+# GhostLock
 
 GhostLock, hareketsiz kalan kullanıcıları sessizce gözlemleyen ve güvenlik kontrolü sağlayan Python tabanlı bir masaüstü uygulamasıdır. Yapay zeka destekli yüz tanıma algoritması sayesinde, yetkisiz kullanıcıların erişimini engeller veya bir honeypot (tuzak) ortamı oluşturarak kamera kaydı alır.
 
