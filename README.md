@@ -2,7 +2,7 @@
 
 Bu proje, staj yaptığım **OzzTech** firmasındaki unutulmaz bir ofis kuralından ilham aldı:
 
-> “Bilgisayarını açık unutan kişi, mail yoluyla ifşa edilir ve tüm ekibe baklava ısmarlar.” 🥧
+> “Bilgisayarını açık unutan kişi, mail yoluyla ifşa edilir ve tüm ekibe baklava ısmarlar.” 
 
 Bu gelenekle ilk tanışmam, bir stajyer arkadaşımın kurban gitmesiyle oldu.
 Kendimi korumak (ve belki bir gün tersine çevirmek) için bu projeyi şaka amaçlı yazmaya başladım.
@@ -10,9 +10,9 @@ Ancak ilk örneği yöneticimiz **Halit Bey**'e sunduktan sonra, onun kıymetli 
 
 Bu yazılımın oluşmasında:
 
-* 👨‍💼 Başta **Halit Bey** olmak üzere tüm **OzzTech** çalışanlarına,
-* 👨‍🏫 Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT kullanımıma destek olan **Mustafa Hocama**,
-* 🤖 Ve bu satırları da yazan sevgili **Chat**’e (yani sana!)
+*  Başta **Halit Bey** olmak üzere tüm **OzzTech** çalışanlarına,
+*  Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT kullanımıma destek olan **Mustafa Hocama**,
+*  Ve bu satırları da yazan sevgili Chat’e
   emekleri ve katkıları için gönülden teşekkür ederim.
 
 ---
