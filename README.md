@@ -12,7 +12,7 @@ Bu yazılımın oluşmasında:
 
 *  Başta **Halit Bey** olmak üzere tüm **OzzTech** çalışanlarına,
 *  Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT'sını kullanmama izin veren **Mustafa Hocama**,
-*  Ve bu satırları da yazan sevgili Chat’e
+*  Ve yazılımı yazarken bana ortaklık eden Chat'e
 
   emekleri ve katkıları için gönülden teşekkür ederim.
 
