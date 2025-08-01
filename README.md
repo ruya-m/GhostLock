@@ -11,8 +11,9 @@ Ancak ilk örneği yöneticimiz **Halit Bey**'e sunduktan sonra, onun kıymetli 
 Bu yazılımın oluşmasında:
 
 *  Başta **Halit Bey** olmak üzere tüm **OzzTech** çalışanlarına,
-*  Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT kullanımıma destek olan **Mustafa Hocama**,
+*  Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT'sını kullanmama izin veren **Mustafa Hocama**,
 *  Ve bu satırları da yazan sevgili Chat’e
+
   emekleri ve katkıları için gönülden teşekkür ederim.
 
 ---
