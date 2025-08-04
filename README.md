@@ -11,7 +11,7 @@ Ancak ilk örneği yöneticimiz **Halit Bey**'e sunduktan sonra, onun kıymetli 
 Bu yazılımın oluşmasında:
 
 *  Başta **Halit Bey** olmak üzere tüm **OzzTech** çalışanlarına,
-*  Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT'sını kullanmama izin veren **Mustafa Hocama**,
+*  Hazırlık dönemimde bana Python’ı öğreten ve ChatGPT'sını kullanmama izin veren **Mustafa Hocam'a**,
 *  Yazılımı yazarken bana ortaklık eden Chat'e
 *  Son olarak geliştirme sürecinde ikide bir "bu nasıl olmuş?" diye sorduğum **Afra'ya**
 
@@ -21,7 +21,7 @@ Bu yazılımın oluşmasında:
 
 # GhostLock
 
-GhostLock, hareketsiz kalan kullanıcıları sessizce gözlemleyen ve güvenlik kontrolü sağlayan Python tabanlı bir masaüstü uygulamasıdır. Yapay zeka destekli yüz tanıma algoritması sayesinde, yetkisiz kullanıcıların erişimini engeller veya bir honeypot (tuzak) ortamı oluşturarak kamera kaydı alır.
+GhostLock, hareketsiz kalan kullanıcıları sessizce gözlemleyen ve güvenlik kontrolü sağlayan Python tabanlı bir masaüstü uygulamasıdır. Yapay zekâ destekli yüz tanıma algoritması sayesinde, yetkisiz kullanıcıların erişimini engeller veya bir honeypot (tuzak) ortamı oluşturarak kamera kaydı alır.
 
 ---
 
